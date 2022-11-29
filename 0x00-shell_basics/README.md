@@ -8,3 +8,5 @@ Move betty
 delete betty
 dirdeletion
 previous one
+list
+i am file
