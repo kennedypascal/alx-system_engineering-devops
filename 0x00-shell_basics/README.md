@@ -6,3 +6,5 @@ Display hidden files
 Display numbers only
 Move betty
 delete betty
+dirdeletion
+previous one
