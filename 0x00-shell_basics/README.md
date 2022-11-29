@@ -4,3 +4,4 @@ changes to home directory
 Display directory content in a long format
 Display hidden files
 Display numbers only
+Move betty
