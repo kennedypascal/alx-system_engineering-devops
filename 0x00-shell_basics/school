@@ -1,2 +1,2 @@
-0	string SCHOOL This is a school file
-!:mime text/School
+0	search/1/c	=SCHOOL			School data
+!:mime	School
