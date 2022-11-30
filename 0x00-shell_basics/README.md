@@ -9,4 +9,5 @@ delete betty
 dirdeletion
 previous one
 list
-i am file
+file type
+symbolic link
