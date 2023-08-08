@@ -20,5 +20,5 @@ frontend https_frontend
 backend my_backend
     balance roundrobin
     mode http
-    server 188813-web-01 100.25.202.219:80 check
-    server 188813-web-02 54.237.119.147:80 check
+    server 188813-web-01 107.21.32.203:80 check
+    server 188813-web-02 3.86.13.26:80 check
